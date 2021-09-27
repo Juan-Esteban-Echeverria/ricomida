@@ -1,0 +1,61 @@
+body{
+    font-family: 'Cabin', sans-serif;
+}
+
+nav{
+    background-size: cover;
+}
+
+.grisaceo{
+    background-color: #373A3C;
+}
+
+.loguito {
+    font-family: 'Cabin', sans-serif;
+    font-family: 'Lobster', cursive;
+    font-size: 2.313em;
+}
+
+.carousel { 
+    margin-bottom: 2.5em; 
+} 
+ 
+.carousel-indicators { 
+    top: 105%; 
+} 
+ 
+.carousel-indicators [data-bs-target] { 
+    height: 0.688em; 
+    width: 0.688em; 
+} 
+
+.cangrejo{
+    font-family: 'Cabin', sans-serif;
+    font-family: 'Lobster', cursive;
+}
+
+.rojo {
+    background-color: #DC3545;
+    padding-top: 9em;
+    padding-bottom: 9em;
+}
+
+.gris{
+    color: #373A3C;
+}
+
+.negro{
+    color: #000000;
+    
+}
+
+.rojito{
+    color: #DC3545;
+}
+
+
+
+
+
+
+
